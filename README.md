@@ -14,14 +14,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm zm1c, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
-**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
+I'm zm1c, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** / **Bug Hunter**. <br>
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. malwares, viruses, bug hunting, I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: mic
+- **Name**: zm1c
 - **From**: Peru
 - **Bug Hunter** | **Security Researcher** | **Cybersecurity Analyst**
 - I have experience in cracking, reverse engineering, bug hunting, social engineering, spy.
