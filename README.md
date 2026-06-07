@@ -15,7 +15,7 @@
 </h2>
 
 I'm zm1c, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** / **Bug Hunter**. <br>
-**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. malwares, viruses, bug hunting, I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. malwares, viruses, bug hunting, I hope I'll become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
 <details>
@@ -25,7 +25,6 @@ I'm zm1c, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersec
 - **From**: Peru
 - **Bug Hunter** | **Security Researcher** | **Cybersecurity Analyst**
 - I have experience in cracking, reverse engineering, bug hunting, social engineering, spy.
--**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
 - Reach me out at **zm1c@proton.me**
@@ -45,11 +44,9 @@ I'm zm1c, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersec
  
 👉 Writing Some Useful Tools For Myself & Communities.
 
-👉 Currently Learning Mobile Pentesting & web3.
-
 `Updating:`  Journey to Cybersecurity Specialist.
 
-`Updating:`  Journey to OSCP Certificate.
+`Updating:`  Journey to eWPTX & OSCP Certificate.
 
 ---
 
@@ -60,7 +57,6 @@ I'm zm1c, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersec
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
